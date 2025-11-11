@@ -567,7 +567,7 @@ Com este conjunto você consegue: montar UIs com Material 3, entender quando usa
 - `tflite_flutter: ^0.11.0`: Biblioteca para executar modelos TensorFlow Lite no dispositivo.
 
 - Adicionar ativos no assets (text_classification.tflite, vocab):
-link para text_classification.tflite: https://storagegoogleapis.com/download.tensorflow.org/models/tflite/text_classification/text_classification.tflite
+link oficial text_classification.tflite: https://storagegoogleapis.com/download.tensorflow.org/models/tflite/text_classification/text_classification.tflite
 
 ```yaml
 flutter:
